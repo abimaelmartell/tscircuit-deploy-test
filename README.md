@@ -1,1 +1,1 @@
-tscircuit build
+tscircuit builds
